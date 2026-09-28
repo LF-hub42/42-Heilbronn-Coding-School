@@ -1,6 +1,4 @@
-Ich antworte als **Python- und 42-Curriculum-Berater mit Schwerpunkt auf sauberer Projektstruktur und Import-Systemen**.
 
-Ja — hier ist **Python Module 06 – The Codex**, wieder im gleichen Stil wie die vorherigen READMEs: locker, übersichtlich, einzelne Emojis, nicht übertrieben nach AI klingend und **komplett in einem Kopierblock**. Inhaltlich basiert es direkt auf dem Subject.
 
 ````markdown
 *This project has been created as part of the 42 curriculum by ekypraio.*
