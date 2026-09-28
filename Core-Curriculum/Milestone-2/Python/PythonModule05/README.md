@@ -358,5 +358,3 @@ AI was also used to help structure this README.
 The code and concepts were reviewed and understood before being used in the
 project.
 ````
-
-**Beispiel:** Genau wie bei deinen vorherigen READMEs kannst du hier den **gesamten Block einmal kopieren** und direkt als `README.md` in dein Repository einsetzen.
