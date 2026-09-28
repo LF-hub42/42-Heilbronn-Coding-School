@@ -1,6 +1,4 @@
-Ich habe sie diesmal **direkt nach dem `04en.subject.pdf`** aufgebaut: `Data Archivist`, die vier Exercises, die tatsächlichen File-Operationen, Streams und `with` ab Exercise 3 – ohne zusätzliche Übungen oder erfundene Projektinhalte.
 
-**Alles in einem einzigen Kopierblock:**
 
 ````markdown
 *This project has been created as part of the 42 curriculum by ekypraio.*
