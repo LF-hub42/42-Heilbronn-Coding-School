@@ -1,6 +1,4 @@
-Ich antworte als **Python- und 42-Curriculum-Berater mit Schwerpunkt auf Softwarearchitektur und OOP**.
 
-Hier ist die README für **Python Module 05 – Code Nexus**, diesmal eng am Subject aufgebaut und mit den tatsächlichen drei Exercises.
 
 ````markdown
 *This project has been created as part of the 42 curriculum by ekypraio.*
