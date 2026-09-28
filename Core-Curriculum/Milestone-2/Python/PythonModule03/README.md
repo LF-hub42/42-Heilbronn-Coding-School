@@ -1,8 +1,3 @@
-Ja, du hast recht. **Die vorige Version war zu allgemein und der Anfang wich von unserem bisherigen Stil ab.** Beim `Data Quest` muss die README näher am tatsächlichen 42-Subject bleiben: Titel **Data Quest**, Untertitel **Mastering Python Collections**, Game-Data-Kontext und die sieben Exercises genau in dieser Reihenfolge.
-
-Da aus dem aktuell auslesbaren Dokumentinhalt die vollständigen Aufgabenbeschreibungen der Exercises 0–6 nicht zuverlässig verfügbar sind, möchte ich sie nicht erfinden. Der folgende Text bleibt deshalb bei den Informationen, die das Subject tatsächlich hergibt.
-
-**Ein einziger Kopierblock:**
 
 ```markdown
 *This project has been created as part of the 42 curriculum by ekypraio.*
