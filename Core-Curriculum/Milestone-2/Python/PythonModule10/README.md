@@ -1,6 +1,3 @@
-Ich antworte als **Python- und 42-Curriculum-Berater mit Schwerpunkt auf Functional Programming**.
-
-Hier ist **Python Module 10 – FuncMage**, direkt nach dem Subject aufgebaut: fünf Exercises, Lambda, Higher-Order Functions, Closures, `functools` und Decorators. Alles wieder **in einem einzigen Kopierblock**.
 
 ````markdown
 *This project has been created as part of the 42 curriculum by ekypraio.*
