@@ -1,4 +1,3 @@
-Ja — hier ist **Python Module 09 – Cosmic Data**, im exakt vereinbarten Stil und **alles in einem einzigen Kopierblock**. Ich habe mich an die tatsächlich sichtbaren Angaben des Subjects gehalten; die Datei enthält bei mir nur 5 auslesbare Seiten, obwohl das Inhaltsverzeichnis auf weitere Detailseiten zu den Exercises verweist. Deshalb erfinde ich keine konkreten Anforderungen, die im vorliegenden Dokument nicht enthalten sind.
 
 ```markdown
 *This project has been created as part of the 42 curriculum by ekypraio.*
