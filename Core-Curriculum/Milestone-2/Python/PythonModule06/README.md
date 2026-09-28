@@ -473,5 +473,3 @@ The project itself was reviewed and tested, and the import mechanisms and
 package structure were understood before being used or explained.
 
 ````
-
-**Beispiel:** Der wichtigste Punkt für die Evaluation bei diesem Projekt ist nicht nur, dass `import` funktioniert, sondern dass du **`__init__.py`, `import` vs. `from ... import ...`, absolute vs. relative Imports und den Circular-Import bei `dark_spellbook` erklären kannst** – genau darauf weist auch das Subject bei der Abgabe/Evaluation hin.
