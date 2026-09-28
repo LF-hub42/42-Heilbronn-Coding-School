@@ -1,6 +1,3 @@
-Ich antworte als **Python- und 42-Curriculum-Berater mit Schwerpunkt auf OOP und Design Patterns**.
-
-Hier ist die README für **Python Module 07 – DataDeck**, direkt nach dem Subject aufgebaut. Ich halte den Stil wie bei deinen vorherigen Projekten und gebe dir **alles in genau einem Kopierblock**.
 
 ````markdown
 *This project has been created as part of the 42 curriculum by ekypraio.*
