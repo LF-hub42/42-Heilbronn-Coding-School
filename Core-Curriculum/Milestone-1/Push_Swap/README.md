@@ -147,9 +147,4 @@ being allowed to use the operations provided by the project.
 
 ## 🤖 AI Usage
 
-AI was used during the project to help optimize parts of the doubly linked list
-structure and to clarify the bitwise logic used in the `radix_sort.c` file.
-
-AI was also used to format and structure this README.
-
-The implementation and project logic were written and understood by me.
+The project was developed through independent work, research, and peer learning. AI was used afterwards as a supporting tool for final review and README preparation. The implementation and project logic were written and understood by me.
