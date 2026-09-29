@@ -170,9 +170,7 @@ The original project subject is included in the repository:
 
 ## 🤖 AI Usage
 
-AI was used during the project as a learning aid to clarify C concepts, understand the behaviour of standard functions, and help identify possible problems during development.
-
-The implementation was written and understood by me. AI assistance was used to support the learning process rather than to replace understanding of the code.
+AI was used for project review and README preparation.
 
 ---
 

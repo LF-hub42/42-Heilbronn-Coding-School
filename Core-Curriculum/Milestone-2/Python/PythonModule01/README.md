@@ -178,9 +178,4 @@ The project was developed using Python 3.
 
 ## 🤖 AI Usage
 
-AI was used to help clarify Python and Object-Oriented Programming concepts and
-to structure this README.
-
-The project follows the 42 guidelines that AI-generated content should only be
-used when it is fully understood and can be explained and defended during
-evaluation.
+AI was used for project review and README preparation.

@@ -109,8 +109,6 @@ in C 02.
 - 42 subject
 - Peer learning
 
-## AI Usage
+## 🤖 AI Usage
 
-The solutions are from my original Piscine work.
-
-AI was later used to help organize and document the project for GitHub.
+AI was used for project review and README preparation.

@@ -159,9 +159,6 @@ researching problems and evaluating each other's work.
 
 This repository represents the beginning of my journey at 42 Heilbronn.
 
-## AI Usage
+## 🤖 AI Usage
 
-The solutions in this repository are from my original Piscine work.
-
-AI was later used to help organize and document the archived projects
-for GitHub.
+AI was used for project review and README preparation.

@@ -111,10 +111,6 @@ The Makefile compiles the source files with:
 - `man 2 write`
 - C documentation for variadic functions and formatted output
 
-## AI Usage
+## 🤖 AI Usage
 
-AI was used to help organise and write this README based on the existing
-source files and Makefile.
-
-The implementation and project decisions remain my own, and the README only
-documents behaviour present in the current implementation.
+AI was used for project review and README preparation.

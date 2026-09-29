@@ -205,10 +205,5 @@ code is installed, configured, and prepared to run in a different environment.
 
 ## 🤖 AI Usage
 
-AI was used during the project to help clarify concepts around virtual
-environments, package management and environment configuration and to structure
-this README.
-
-The code and concepts were reviewed and understood before being used in the
-project.
+AI was used for project review and README preparation.
 ````

@@ -468,17 +468,7 @@ Useful manual pages can also be opened directly from a terminal:
 
 ## 🤖 AI Usage
 
-AI was used as a learning and support tool to help clarify concepts such as:
-
-- File descriptors
-- The behavior of `read()`
-- Static storage
-- Buffer handling
-- Memory lifetime
-- Testing strategies
-
-AI was also used to help structure and format this README and to review the
-project requirements.
+AI was used for project review and README preparation.
 
 ---
 

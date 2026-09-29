@@ -466,10 +466,6 @@ complex application logic.
 
 ## 🤖 AI Usage
 
-AI was used during the project to help clarify Python import concepts and to
-structure this README.
-
-The project itself was reviewed and tested, and the import mechanisms and
-package structure were understood before being used or explained.
+AI was used for project review and README preparation.
 
 ````

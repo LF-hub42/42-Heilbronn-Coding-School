@@ -234,7 +234,4 @@ The project was developed using Python 3.
 
 ## 🤖 AI Usage
 
-AI was used to help clarify Python concepts and understand parts of the
-exercises.
-
-The solutions were written and understood by me.
+AI was used for project review and README preparation.

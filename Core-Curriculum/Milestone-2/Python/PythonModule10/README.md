@@ -738,16 +738,5 @@ just implementing them.
 
 ## 🤖 AI Usage
 
-AI was used during the project to help clarify functional programming concepts
-and to structure this README.
-
-It was also useful for discussing concepts such as lambda expressions,
-higher-order functions, closures, `functools` and decorators.
-
-The generated information and code-related suggestions were reviewed and
-understood before being used.
-
-The project follows the 42 principle that AI-generated content should only be
-used when it is fully understood and can be explained and defended during
-evaluation.
+AI was used for project review and README preparation.
 ````

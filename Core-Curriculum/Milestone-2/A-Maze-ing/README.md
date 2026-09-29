@@ -196,13 +196,6 @@ more explicitly about shared files like `config_parser.py` to avoid conflicts.
 - [Python Curses Module](https://www.w3schools.com/python/ref_module_curses.asp)
 - [Creating Menu Display for Terminal](https://www.youtube.com/watch?v=zwMsmBsC1GM)
 
-### AI Usage
+## 🤖 AI Usage
 
-AI was used during this project for the following tasks:
-
-- Generating an initial project plan and structure, including file responsibilities per team member
-- Suggesting git workflows and commands for branch-based collaboration
-- Reviewing code against project requirements (flake8, mypy, docstrings, type hints)
-- Debugging type errors and fixing formatting inconsistencies
-
-**All code logic and implementation were written and understood by the team.**
+AI was used for project review and README preparation.
