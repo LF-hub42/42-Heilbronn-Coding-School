@@ -164,11 +164,5 @@ data while keeping the focus on understanding how Pydantic handles that data.
 
 ## 🤖 AI Usage
 
-AI was used during the project to help clarify Pydantic and data validation
-concepts and to structure this README.
-
-The generated information was reviewed and checked before being used.
-
-The project follows the 42 approach of only using AI-generated content that is
-fully understood and can be explained during an evaluation.
+The project was developed through independent work, research, and peer learning. AI was used afterwards as a supporting tool for final review and README preparation. The implementation and project logic were written and understood by me.
 ```
