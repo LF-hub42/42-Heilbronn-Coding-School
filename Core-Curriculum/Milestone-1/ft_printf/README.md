@@ -113,8 +113,4 @@ The Makefile compiles the source files with:
 
 ## AI Usage
 
-AI was used to help organise and write this README based on the existing
-source files and Makefile.
-
-The implementation and project decisions remain my own, and the README only
-documents behaviour present in the current implementation.
+The project was developed through independent work, research, and peer learning. AI was used afterwards as a supporting tool for final review and README preparation. The implementation and project logic were written and understood by me.
