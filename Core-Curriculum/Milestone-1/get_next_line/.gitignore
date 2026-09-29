@@ -1,0 +1,6 @@
+# Local testing
+gnl_test
+
+# Build files
+*.o
+*.out

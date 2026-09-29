@@ -1,0 +1,8 @@
+e function can be called repeatedly and keeps track of unread data between
+calls.
+The main challenge is that `read()` works with a fixed buffer size and does
+not know anything about lines. Depending on the `BUFFER_SIZE`, one call to
+`read()` may contain only part of a line, exactly one line, or parts of several
+lines.
+My implementation solves this by storing unread data between calls and
+processing it until the next complete line is available.
