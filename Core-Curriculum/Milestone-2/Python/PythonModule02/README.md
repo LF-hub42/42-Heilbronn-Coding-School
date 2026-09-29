@@ -205,8 +205,4 @@ something unexpected happens.
 
 ## 🤖 AI Usage
 
-AI was used to help structure this README and clarify some of the concepts
-covered by the project.
-
-The code and concepts should always be understood and checked before being used
-or explained during an evaluation.
+The project was developed through independent work, research, and peer learning. AI was used afterwards as a supporting tool for final review and README preparation. The implementation and project logic were written and understood by me.
