@@ -350,11 +350,5 @@ the existing architecture.
 
 ## 🤖 AI Usage
 
-AI was used during the project to help clarify concepts such as abstract
-classes, polymorphism, method overriding, `Protocol` and duck typing.
-
-AI was also used to help structure this README.
-
-The code and concepts were reviewed and understood before being used in the
-project.
+The project was developed through independent work, research, and peer learning. AI was used afterwards as a supporting tool for final review and README preparation. The implementation and project logic were written and understood by me.
 ````
