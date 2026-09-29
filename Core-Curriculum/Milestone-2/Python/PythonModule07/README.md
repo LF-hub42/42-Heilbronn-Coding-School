@@ -437,5 +437,5 @@ whole project.
 
 ## 🤖 AI Usage
 
-AI was used for project review and README preparation.
+The project was developed through independent work, research, and peer learning. AI was used afterwards as a supporting tool for final review and README preparation.
 ````

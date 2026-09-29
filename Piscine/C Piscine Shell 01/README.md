@@ -116,4 +116,4 @@ combined to solve more complex tasks.
 
 ## 🤖 AI Usage
 
-AI was used for project review and README preparation.
+These solutions are from my original Piscine work. AI was only used afterwards as a supporting tool for project review and GitHub documentation.

@@ -112,4 +112,4 @@ These basics became part of my workflow for later 42 projects.
 
 ## 🤖 AI Usage
 
-AI was used for project review and README preparation.
+These solutions are from my original Piscine work. AI was only used afterwards as a supporting tool for project review and GitHub documentation.
