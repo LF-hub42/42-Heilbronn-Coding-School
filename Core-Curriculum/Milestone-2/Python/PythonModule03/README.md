@@ -175,9 +175,5 @@ collections can be used in practical situations.
 
 ## 🤖 AI Usage
 
-AI was used during the project to help clarify Python collection concepts and
-to structure this README.
-
-The code and concepts were reviewed and understood before being used in the
-project.
+The project was developed through independent work, research, and peer learning. AI was used afterwards as a supporting tool for final review and README preparation. The implementation and project logic were written and understood by me.
 ```
