@@ -6,3 +6,5 @@ and Earliest Deadline First (EDF) scheduling.
 
 See the [Codexion repository](https://github.com/LF-hub42/Codexion) for the
 project source and documentation.
+
+See the [Codexion project](./Codexion/).
