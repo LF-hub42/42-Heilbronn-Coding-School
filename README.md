@@ -46,7 +46,7 @@ Some of the projects I have worked on include:
 - **push_swap** — algorithmic sorting with a restricted set of stack operations
 - **Born2beroot** — Linux system administration and server configuration
 - **A-Maze-ing** — maze generation, pathfinding and problem solving with Python
-- **Milestone 3 — Codexion** — C, POSIX threads, synchronization, and FIFO/EDF scheduling ([project repository](https://github.com/LF-hub42/Codexion))
+- **Milestone 3 — Codexion** — C, POSIX threads, synchronization, and FIFO/EDF scheduling ([project overview](Core-Curriculum/Milestone-3/README.md))
 
 These projects have allowed me to progress from low-level programming in **C** toward increasingly complex problem solving and software development with **Python**.
 
