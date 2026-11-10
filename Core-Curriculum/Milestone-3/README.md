@@ -1,4 +1,4 @@
-# Milestone 3 — Codexion
+# Milestone 3 - Codexion
 
 ## Description
 
